@@ -1,5 +1,5 @@
 plugins {
-  //inlude the nodeJS plugin to execute nodejs and npm tasks
+  // need to use node-gradle to have a successful build
   id "com.github.node-gradle.node" version "2.2.0"
 }
 
