@@ -1,5 +1,5 @@
 plugins {
-  // need to use node-gradle to have a successful build
+  // need to use node-gradle to have a successful build -- test
   id "com.github.node-gradle.node" version "2.2.0"
 }
 
